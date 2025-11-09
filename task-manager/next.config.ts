@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // You can leave this empty or add future options
 };
 
 export default nextConfig;
